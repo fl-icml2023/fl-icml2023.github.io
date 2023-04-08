@@ -1,1 +1,1 @@
-# FL4NLP Workshop
+# FL ICML 2023 Workshop
